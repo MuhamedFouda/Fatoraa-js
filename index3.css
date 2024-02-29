@@ -1,0 +1,6 @@
+.content{
+display: felx;
+flex-wrap:wrap ;
+flex-direction: row;
+gap: 2rem;
+}

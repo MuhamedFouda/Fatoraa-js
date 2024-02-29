@@ -1,0 +1,7 @@
+#allproduct{
+display: flex;
+flex-direction: row;
+flex-wrap: nowrap;
+gap: 1rem;
+margin-left: 1rem;
+}
